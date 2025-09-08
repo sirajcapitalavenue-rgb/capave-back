@@ -20,7 +20,7 @@ const app = express();
 
 // CORS Configuration
 const corsOptions = {
-  origin: ['http://localhost:3000', 'https://capave-front.vercel.app/'],
+  origin: ['http://localhost:3000', 'https://capave-front.vercel.app'],
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   credentials: true,
   optionsSuccessStatus: 204
