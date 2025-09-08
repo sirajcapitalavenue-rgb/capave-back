@@ -11,5 +11,3 @@ This is the Node.js, Express, and MongoDB backend for the WhatsApp Campaign Mana
 - **Real-time Replies**: Receive incoming user replies via a secure webhook.
 - **User Authentication**: Secure user registration and login using JWT (JSON Web Tokens).
 - **WhatsApp API Integration**: A dedicated service for sending messages via the Meta Cloud API.
-
----
